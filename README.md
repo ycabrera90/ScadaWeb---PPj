@@ -1,8 +1,8 @@
-# SHARE A PLACE
+# SCADA WEB
 
 ## DESCRIPTION
 
-It is a small web application for academic use that shows work with Google APIs.
+This is a web application that will visualize and control all the magnitudes of automatism systems.
 
 ## Serve App
 
